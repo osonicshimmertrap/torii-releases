@@ -145,6 +145,21 @@ password to update its helper.
 - IPv4 only.
 - The screenshots show made-up names and addresses.
 
+## Planned
+
+Not promises and not dated, but this is what is being worked towards:
+
+- **Fortinet gateways.** The engine inside Torii already speaks the
+  protocol; Torii needs a protocol choice in the profile and a field for
+  a typed sign-in code.
+- **OpenVPN.** A second engine beside the current one, with import of
+  `.ovpn` files.
+- **A "Shared" label for routes.** When several routes point to the same
+  server, switching one off cannot take that host out of the VPN while
+  the others are on. Torii will say so on the route.
+- **A one-press update.** Today the Install button opens a second window
+  to confirm.
+
 ## Licence
 
 Torii is released under the [Functional Source License, Version 1.1, MIT
