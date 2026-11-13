@@ -6,6 +6,14 @@
         <language>en</language>
         <!-- releases, newest first -->
         <item>
+            <title>Torii 0.32.2</title>
+            <pubDate>Fri, 13 Nov 2026 08:33:03 +0000</pubDate>
+            <sparkle:version>0.32.2</sparkle:version>
+            <sparkle:shortVersionString>0.32.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/osonicshimmertrap/torii-releases/releases/download/v0.32.2/Torii-0.32.2.zip" sparkle:edSignature="VeFqNWP4kaCLskRE3C7GJuphIu9QcqWKd7EZBlVRhbUAbhEVP/hBlthmsLCcjyMxUu9BiTMp5Mm46A4UsBrlBg==" length="5107320" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Torii 0.32.1</title>
             <pubDate>Fri, 13 Nov 2026 08:24:50 +0000</pubDate>
             <sparkle:version>0.32.1</sparkle:version>
