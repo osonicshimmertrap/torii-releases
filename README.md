@@ -26,9 +26,9 @@ for it. The gate turns green and the timer starts. Your password stays in
 the macOS Keychain.
 
 <p align="center">
-  <img src="images/popover-signing.png" width="300" alt="Signing in: Torii waits for the approval on your phone">
+  <img src="images/popover-signing.png" width="300" align="top" alt="Signing in: Torii waits for the approval on your phone">
   &nbsp;&nbsp;
-  <img src="images/popover-connected.png" width="300" alt="Connected: the session timer, the VPN address and the routes, each with its status">
+  <img src="images/popover-connected.png" width="300" align="top" alt="Connected: the session timer, the VPN address and the routes, each with its status">
 </p>
 
 ## Only what you choose goes through the VPN
@@ -59,9 +59,9 @@ connected. If the session survives, it carries on; if not, you are told
 why and can connect again.
 
 <p align="center">
-  <img src="images/popover-lost.png" width="300" alt="Connection lost: an amber gate, a message, and a countdown">
+  <img src="images/popover-lost.png" width="300" align="top" alt="Connection lost: an amber gate, a message, and a countdown">
   &nbsp;&nbsp;
-  <img src="images/popover-off.png" width="300" alt="Off: your routes, ready for the next connect">
+  <img src="images/popover-off.png" width="300" align="top" alt="Off: your routes, ready for the next connect">
 </p>
 
 ## A log you can read
