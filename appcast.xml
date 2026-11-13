@@ -5,5 +5,13 @@
         <description>Releases of Torii, read by installed copies when an update is installed.</description>
         <language>en</language>
         <!-- releases, newest first -->
+        <item>
+            <title>Torii 0.32.1</title>
+            <pubDate>Fri, 13 Nov 2026 08:24:50 +0000</pubDate>
+            <sparkle:version>0.32.1</sparkle:version>
+            <sparkle:shortVersionString>0.32.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/osonicshimmertrap/torii-releases/releases/download/v0.32.1/Torii-0.32.1.zip" sparkle:edSignature="Rt+BgwjCKFCvuBMIrLrhL9YZreSwwjTlQ/ASoY4LaIitLpOHEFsRtKBiU5eQOjzM12o7vobgBL+9H/drS3tBCw==" length="5106003" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
